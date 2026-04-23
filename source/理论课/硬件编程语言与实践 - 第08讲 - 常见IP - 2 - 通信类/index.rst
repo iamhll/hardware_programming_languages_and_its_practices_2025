@@ -137,7 +137,7 @@ AXI5
 
 https://developer.arm.com/documentation/ihi0022/latest
 
-片内通信
+片外通信
 ........................................
 .. image:: 幻灯片77.JPG
 .. image:: 幻灯片78.JPG
